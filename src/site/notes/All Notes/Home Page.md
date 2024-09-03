@@ -4,7 +4,7 @@
 
 This is a home page dedicated to my repository of knowledge.
 
-[[All Notes/Topic 1\|Topic 1]] 
+[[Topic 1\|Topic 1]] 
 
 ## About Me
 
