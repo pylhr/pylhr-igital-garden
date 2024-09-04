@@ -13,6 +13,14 @@ Exploring ideas, notes, and thoughts as they evolve over time. Here you'll find 
 - [[All Notes/Software Engineering/Python/Introduction Python\|Python]]
 
 
+## About Me 
+I'm[Priyanshu Lohar](https://pylhr.vercel.app) , a Software Engineer | Researcher and lifelong learner. This digital garden is my space to cultivate ideas and share knowledge. 
+## Stay in Touch 
+ 
+ Feel free to [reach out](mailto:priyanshulohar1@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/pylhr). 
 
+--- 
+
+© 2024 Priyanshu Lohar. All rights reserved. 
 
 
