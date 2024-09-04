@@ -8,10 +8,10 @@ Exploring ideas, notes, and thoughts as they evolve over time. Here you'll find 
 
 ## Explore the Garden
 
-- [Java](Introduction%20Java.md)
-- [Data Structures & Algorithms](Introduction DSA)
-- [Python](Introduction Python)
-- [Book Reviews](Book Reviews)
+- [[All Notes/Software Engineering/Java/Introduction Java\|Java]]
+- [[All Notes/Software Engineering/Data Structures & Algorithms/Introduction DSA\|Data Structures & Algorithms]]
+- [[All Notes/Software Engineering/Python/Introduction Python\|Python]]
+
 
 
 
