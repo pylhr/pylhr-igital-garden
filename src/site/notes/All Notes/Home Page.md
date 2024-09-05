@@ -12,7 +12,7 @@ Exploring ideas, notes, and thoughts as they evolve over time. Here you'll find 
 - [[All Notes/Software Engineering/Data Structures & Algorithms/Introduction DSA\|Data Structures & Algorithms]]
 - [[All Notes/Software Engineering/Python/Introduction Python\|Python]]
 
-
+Visit [My Notebooks](https://pylhr.vercel.app/notebooks), a hub of well-structured, academically rigorous notes from my studies, organized for easy access and exploration. 
 ## About Me 
 I'm [Priyanshu Lohar](https://pylhr.vercel.app) , a Software Engineer | Researcher and lifelong learner. This digital garden is my space to cultivate ideas and share knowledge. 
 ## Stay in Touch 
