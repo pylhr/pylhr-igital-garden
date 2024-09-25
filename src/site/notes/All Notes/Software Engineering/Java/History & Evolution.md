@@ -8,3 +8,7 @@
 	- To adapt to changing environments and uses
 	- To implement refinements and improvements in the art of programming
 - Java derives its syntax from C, and object oriented features from C++.
+
+
+
+[[All Notes/Software Engineering/Java/Structure of Java Program\|Next Page]]
