@@ -24,3 +24,11 @@
 	- Refactoring
 	- Inspections
 - It is developed by JetBrains.
+
+#### Characteristics
+- Concise
+- Safe
+- Interoperable
+- Tool-friendly
+- Feature-rich
+
