@@ -32,3 +32,5 @@
 - Tool-friendly
 - Feature-rich
 
+[[All Notes/Software Engineering/Kotlin/Structure of Kotlin Program\|Next]]
+
