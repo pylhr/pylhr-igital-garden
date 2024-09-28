@@ -13,23 +13,4 @@
 ```
 
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
-
-
-# Excalidraw Data
-## Text Elements
-Kotlin Code 
-Bytecode 
-JVM 
-Compile 
-Run 
-
-
-</div></div>
-
+![kt-jvm.png](/img/user/All%20Notes/Software%20Engineering/Kotlin/kt-jvm.png)
